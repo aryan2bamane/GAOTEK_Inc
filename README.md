@@ -1,2 +1,2 @@
 # GAOTEK_Inc
-My First Internship work.
+My Multi-Nation Company Internship work.
